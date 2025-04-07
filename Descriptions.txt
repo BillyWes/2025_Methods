@@ -1,1 +1,29 @@
+Helical_Nets.py
+  Used for plotting helical nets displayed in figure 3
 
+plottingCalibrationCurve.py
+  Used to plot calibration curve for MCy5 absorbance and predicting the extinction coefficient
+
+plotting_SEC.py
+  Used to plot SEC and HPLC traces for purified protein and peptides displayed in results and discussion
+
+plotting_UV-Vis.py
+  Used to plot single UV-Vis traces
+
+plotting_Variable_pH_UV-Vis.py
+  Used to plot the base titration spectra and curves, sigmoidal fitting of the curves displayed in results and discussion and to predict pKa
+
+plotting_Variable_time_UV-Vis.py
+  Used to plot the kinetic spectra and curves displayed in results and discussion
+
+plotting_absorbance.py
+  Used to plot HPLC absorbance traces, used for previewing HPLC and SEC traces
+
+plotting_cd.py
+  Used to plot CD spectra of peptides and proteins displayed in results and discussion
+
+plotting_exemplarCD.py
+  Used to plot the characteristic CD spectra of secondary structures displayed in figure 7
+
+plotting_plate_reader.py
+  Used to plot the ligand binding assays and fit curves with a quadratic binding curve displayed in results and discussion
