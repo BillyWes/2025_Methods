@@ -1,0 +1,6 @@
+1. peptideID,           2. Molweight,   3. Length/res,  4. TFA/count,   5. AmBond/count
+CC-Type-II-IV-V-C-V,    0,              0,              0,              30
+CC-Tet-star,            0,              0,              0,              30
+CC-Tet-star-woW,        0,              0,              0,              30
+Sccc7-IV,               0,              0,              0,              386
+Sccc7-MCy(EKW),         41911.09,       395,            0,              394
